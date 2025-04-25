@@ -1,0 +1,9 @@
+This directory will contain the moodboard images for the morning routine vlog theme.
+Please save the images from the conversation to this directory with the following names:
+
+1. morning-selfie.jpg - The selfie with camera image
+2. window-silhouette.jpg - The silhouette by window with coffee
+3. washing-hands.jpg - The washing hands in sink image
+4. coffee-closeup.jpg - The close-up of coffee cup by window
+5. camera-selfie.jpg - The close-up self portrait with camera
+6. window-view.jpg - The person looking out window image 
